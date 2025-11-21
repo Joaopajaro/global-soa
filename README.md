@@ -1,0 +1,2 @@
+# global-soa
+gs soa
