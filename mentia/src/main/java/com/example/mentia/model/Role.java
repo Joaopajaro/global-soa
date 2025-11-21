@@ -19,7 +19,7 @@ public class Role {
         this.name = name;
     }
 
-    // getters and setters
+
     public Integer getId() { return id; }
     public void setId(Integer id) { this.id = id; }
     public ERole getName() { return name; }
