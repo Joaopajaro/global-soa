@@ -1,9 +1,9 @@
 # MentIA – Plataforma de Autodesenvolvimento
 
 ## Integrantes
-- Nome 1
-- Nome 2
-- Nome 3
+- Joao Arthur  RM:5511272
+- Geovanna RM:97736
+- Victor RM:98384
 
 ## Objetivo
 Desenvolver uma aplicação web que utilize inteligência artificial e dados de mercado para sugerir trilhas de desenvolvimento profissional e mentorias personalizadas. A plataforma cruza dados de tendências do mercado, perfis comportamentais/cognitivos e objetivos pessoais para gerar recomendações individualizadas.
