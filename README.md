@@ -27,4 +27,4 @@ Desenvolver uma aplicação web que utilize inteligência artificial e dados de 
 ## Informações adicionais
 - Para executar localmente, configure o `application.properties` com os dados do MySQL e rode `mvn spring-boot:run`.
 - O token JWT deve ser enviado no cabeçalho `Authorization: Bearer <token>` nas requisições protegidas.
-- Mais endpoints e funcionalidades podem ser adicionados conforme a evolução da plataforma.
+
